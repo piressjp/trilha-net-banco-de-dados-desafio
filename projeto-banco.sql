@@ -78,7 +78,7 @@ WHERE Genero = 'Mistério'
 
 --12
 SELECT 
-    Nome as nome_filme,
+    Nome,
     PrimeiroNome,
     UltimoNome,
     Papel
